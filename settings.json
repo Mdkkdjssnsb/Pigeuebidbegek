@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "dotxsmp.aternos.me",
-    "port": 53364,
+    "ip": "WorldWeavers.aternos.me",
+    "port": 37248,
     "version": "1.12.1"
   },
   
